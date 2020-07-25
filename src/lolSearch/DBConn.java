@@ -1,4 +1,4 @@
-package lolProgram;
+package lolSearch;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

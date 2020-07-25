@@ -1,4 +1,4 @@
-package lolProgram;
+package lolSearch;
 
 public class BanRatio {
 	private String name;

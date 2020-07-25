@@ -1,4 +1,4 @@
-package lolProgram;
+package lolSearch;
 
 import java.io.IOException;
 import java.util.ArrayList;

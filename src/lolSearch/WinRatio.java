@@ -1,4 +1,4 @@
-package lolProgram;
+package lolSearch;
 
 public class WinRatio {
 	private int no;
